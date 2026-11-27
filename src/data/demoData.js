@@ -1,3 +1,5 @@
+import { Home, Users, Coins, HandCoins, RefreshCw, AlertTriangle, Wallet, BarChart3, Settings } from 'lucide-react';
+
 // Jeux de donnees fictifs. Ne pas utiliser en production.
 export const INITIAL_CAISSE_DATA = [
   { month: 'Jan', montant: 52000 },
