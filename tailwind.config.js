@@ -1,0 +1,1 @@
+export default { content: ['./index.html', './src/**/*.{js,jsx,ts,tsx}'], theme: { extend: { colors: { ndjocka: { gold: '#D4A441', ink: '#120F0B', cream: '#FDFBF6' } } } }, plugins: [] };
